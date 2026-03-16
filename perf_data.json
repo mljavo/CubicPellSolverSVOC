@@ -1,0 +1,302 @@
+[
+    {
+        "d": "2",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 28
+    },
+    {
+        "d": "2",
+        "method": "CubicSolver_LLL",
+        "time_us": 1890
+    },
+    {
+        "d": "3",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 29
+    },
+    {
+        "d": "3",
+        "method": "CubicSolver_LLL",
+        "time_us": 1426
+    },
+    {
+        "d": "5",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 8
+    },
+    {
+        "d": "5",
+        "method": "CubicSolver_LLL",
+        "time_us": 3148
+    },
+    {
+        "d": "7",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 7
+    },
+    {
+        "d": "7",
+        "method": "CubicSolver_LLL",
+        "time_us": 760
+    },
+    {
+        "d": "10",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 13
+    },
+    {
+        "d": "10",
+        "method": "CubicSolver_LLL",
+        "time_us": 2849
+    },
+    {
+        "d": "15",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 70
+    },
+    {
+        "d": "15",
+        "method": "CubicSolver_LLL",
+        "time_us": 3175
+    },
+    {
+        "d": "20",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 10
+    },
+    {
+        "d": "20",
+        "method": "CubicSolver_LLL",
+        "time_us": 3171
+    },
+    {
+        "d": "26",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 27
+    },
+    {
+        "d": "26",
+        "method": "CubicSolver_LLL",
+        "time_us": 1069
+    },
+    {
+        "d": "28",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 5
+    },
+    {
+        "d": "28",
+        "method": "CubicSolver_LLL",
+        "time_us": 782
+    },
+    {
+        "d": "40",
+        "method": "CubicSolver_BruteForce",
+        "time_us": 13
+    },
+    {
+        "d": "40",
+        "method": "CubicSolver_LLL",
+        "time_us": 2966
+    },
+    {
+        "d": "63",
+        "method": "CubicSolver_LLL",
+        "time_us": 843
+    },
+    {
+        "d": "65",
+        "method": "CubicSolver_LLL",
+        "time_us": 725
+    },
+    {
+        "d": "100",
+        "method": "CubicSolver_LLL",
+        "time_us": 11693
+    },
+    {
+        "d": "150",
+        "method": "CubicSolver_LLL",
+        "time_us": 10593
+    },
+    {
+        "d": "215",
+        "method": "CubicSolver_LLL",
+        "time_us": 887
+    },
+    {
+        "d": "217",
+        "method": "CubicSolver_LLL",
+        "time_us": 895
+    },
+    {
+        "d": "300",
+        "method": "CubicSolver_LLL",
+        "time_us": 21566
+    },
+    {
+        "d": "342",
+        "method": "CubicSolver_LLL",
+        "time_us": 1226
+    },
+    {
+        "d": "344",
+        "method": "CubicSolver_LLL",
+        "time_us": 1305
+    },
+    {
+        "d": "400",
+        "method": "CubicSolver_LLL",
+        "time_us": 55607
+    },
+    {
+        "d": "493",
+        "method": "CubicSolver_LLL",
+        "time_us": 79668
+    },
+    {
+        "d": "511",
+        "method": "CubicSolver_LLL",
+        "time_us": 422
+    },
+    {
+        "d": "513",
+        "method": "CubicSolver_LLL",
+        "time_us": 541
+    },
+    {
+        "d": "600",
+        "method": "CubicSolver_LLL",
+        "time_us": 54992
+    },
+    {
+        "d": "728",
+        "method": "CubicSolver_LLL",
+        "time_us": 1405
+    },
+    {
+        "d": "730",
+        "method": "CubicSolver_LLL",
+        "time_us": 1434
+    },
+    {
+        "d": "850",
+        "method": "CubicSolver_LLL",
+        "time_us": 10232
+    },
+    {
+        "d": "999",
+        "method": "CubicSolver_LLL",
+        "time_us": 529
+    },
+    {
+        "d": "1001",
+        "method": "CubicSolver_LLL",
+        "time_us": 518
+    },
+    {
+        "d": "1150",
+        "method": "CubicSolver_LLL",
+        "time_us": 10358
+    },
+    {
+        "d": "1330",
+        "method": "CubicSolver_LLL",
+        "time_us": 1107
+    },
+    {
+        "d": "1332",
+        "method": "CubicSolver_LLL",
+        "time_us": 1083
+    },
+    {
+        "d": "1450",
+        "method": "CubicSolver_LLL",
+        "time_us": 106083
+    },
+    {
+        "d": "1599",
+        "method": "CubicSolver_LLL",
+        "time_us": 34207
+    },
+    {
+        "d": "1727",
+        "method": "CubicSolver_LLL",
+        "time_us": 964
+    },
+    {
+        "d": "1729",
+        "method": "CubicSolver_LLL",
+        "time_us": 957
+    },
+    {
+        "d": "1850",
+        "method": "CubicSolver_LLL",
+        "time_us": 68078
+    },
+    {
+        "d": "2000",
+        "method": "CubicSolver_LLL",
+        "time_us": 16953
+    },
+    {
+        "d": "2150",
+        "method": "CubicSolver_LLL",
+        "time_us": 106565
+    },
+    {
+        "d": "2196",
+        "method": "CubicSolver_LLL",
+        "time_us": 732
+    },
+    {
+        "d": "2198",
+        "method": "CubicSolver_LLL",
+        "time_us": 706
+    },
+    {
+        "d": "2250",
+        "method": "CubicSolver_LLL",
+        "time_us": 34534
+    },
+    {
+        "d": "2300",
+        "method": "CubicSolver_LLL",
+        "time_us": 15290
+    },
+    {
+        "d": "2350",
+        "method": "CubicSolver_LLL",
+        "time_us": 108096
+    },
+    {
+        "d": "2400",
+        "method": "CubicSolver_LLL",
+        "time_us": 109275
+    },
+    {
+        "d": "2420",
+        "method": "CubicSolver_LLL",
+        "time_us": 114140
+    },
+    {
+        "d": "2440",
+        "method": "CubicSolver_LLL",
+        "time_us": 14452
+    },
+    {
+        "d": "2460",
+        "method": "CubicSolver_LLL",
+        "time_us": 6317
+    },
+    {
+        "d": "2480",
+        "method": "CubicSolver_LLL",
+        "time_us": 76446
+    },
+    {
+        "d": "2500",
+        "method": "CubicSolver_LLL",
+        "time_us": 68468
+    }
+]
