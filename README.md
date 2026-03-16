@@ -21,3 +21,14 @@ Projekt skompilujete pomocou priloženého `Makefile`:
 ```bash
 make
 ```
+
+Následne program spustíte:
+```bash
+./cubic_solver
+```
+
+Program vygeneruje súbory results.json a perf_data.json s nájdenými koeficientmi a nameranými časmi.
+
+Pre vizualízaciu dát, stačí spusiť `visualizer.py`.
+
+Prajem príjemné používanie :)
